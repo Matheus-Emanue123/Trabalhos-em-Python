@@ -1,5 +1,6 @@
 # 🐍 Repositório de Trabalhos - Programação em Python
 
+
 ## 📚 Sobre
 
 Este repositório contém os trabalhos desenvolvidos na disciplina de **Programação em Python** ministrada pelo professor **Guido** no **CEFET-MG**, campus **Divinópolis**. Aqui você encontrará diversos projetos e atividades que abordam conceitos fundamentais e avançados de programação em Python.
@@ -49,6 +50,10 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
+<div align="center">
+
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
 
 **Divinópolis, CEFET-MG - 2024**
+
+</div>
