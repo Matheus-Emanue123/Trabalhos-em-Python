@@ -12,6 +12,14 @@ Este repositório contém os trabalhos desenvolvidos na disciplina de **Programa
 - **/exercicios**: Exercícios práticos para fixação dos conceitos aprendidos.
 - **/notebooks**: Jupyter Notebooks com explicações detalhadas e exemplos de código.
 
+## 📂 Atividades
+
+Neste repositório, você encontrará as seguintes atividades desenvolvidas durante a disciplina:
+
+- **JOGO_DA_FORCA.PY**: Implementação do clássico jogo da forca, onde o jogador tenta adivinhar uma palavra secreta escolhida aleatoriamente pelo programa.
+- **LISTA_DE_CONTATOS.PY**: Aplicação para gerenciar uma lista de contatos, permitindo inserir, remover, pesquisar e listar contatos, além de visualizar aniversariantes do mês.
+- **MAIN.PY**: Algoritmo de Busca em Largura (BFS) aplicado em um tabuleiro, demonstrando a busca do caminho mais curto entre dois pontos em uma matriz.
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.x** ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -57,3 +65,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 **Divinópolis, CEFET-MG - 2024**
 
 </div>
+
