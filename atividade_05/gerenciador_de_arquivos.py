@@ -1,5 +1,3 @@
-import os
-
 def registrar_erro(mensagem):
     with open("gerenciamento_erros.log", "a") as log_file:
         log_file.write(mensagem + "\n")
