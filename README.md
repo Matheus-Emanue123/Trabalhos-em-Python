@@ -5,20 +5,16 @@
 
 Este repositório contém os trabalhos desenvolvidos na disciplina de **Programação em Python** ministrada pelo professor **Guido** no **CEFET-MG**, campus **Divinópolis**. Aqui você encontrará diversos projetos e atividades que abordam conceitos fundamentais e avançados de programação em Python.
 
-## 🗂️ Estrutura do Repositório
-
-- **/atividades**: Contém os códigos e scripts das atividades realizadas ao longo do curso.
-- **/projetos**: Projetos maiores e mais complexos desenvolvidos durante a disciplina.
-- **/exercicios**: Exercícios práticos para fixação dos conceitos aprendidos.
-- **/notebooks**: Jupyter Notebooks com explicações detalhadas e exemplos de código.
-
 ## 📂 Atividades
 
 Neste repositório, você encontrará as seguintes atividades desenvolvidas durante a disciplina:
 
-- **JOGO_DA_FORCA.PY**: Implementação do clássico jogo da forca, onde o jogador tenta adivinhar uma palavra secreta escolhida aleatoriamente pelo programa.
-- **LISTA_DE_CONTATOS.PY**: Aplicação para gerenciar uma lista de contatos, permitindo inserir, remover, pesquisar e listar contatos, além de visualizar aniversariantes do mês.
-- **MAIN.PY**: Algoritmo de Busca em Largura (BFS) aplicado em um tabuleiro, demonstrando a busca do caminho mais curto entre dois pontos em uma matriz.
+- **GERENCIAMENTO_DE_LISTA_DE_CONTATOS**: Aplicação para gerenciar uma lista de contatos, permitindo inserir, remover, pesquisar e listar contatos, além de visualizar aniversariantes do mês.
+- **IMPLEMENTAÇÃO_DO_BFS**: Algoritmo de Busca em Largura (BFS) aplicado em um tabuleiro, demonstrando a busca do caminho mais curto entre dois pontos em uma matriz.
+- **JOGO_DA_FORCA**: Implementação do clássico jogo da forca, onde o jogador tenta adivinhar uma palavra secreta escolhida aleatoriamente pelo programa.
+- **GERENCIADOR_DE_CONSULTÓRIO**: Implementação para gerenciar um consultório, possibilitando o cadastro de pacientes, médicos e consultas.
+- **GERENCIADOR_DE_ARQUIVOS**: Possibilita o gerenciamento de arquivos, permitindo criar, abrir e editar.
+- **IMPLEMENTAÇÃO_DO_ALGORITMO_DE_DIJKSTRA_PARA_GRAFOS**: Algoritmo de Dijkstra aplicado em um grafo, com o objetivo de encontrar o menor caminho possível de um determinado nó n_0 para todos os outros nós.
 
 ## 🛠️ Tecnologias Utilizadas
 
