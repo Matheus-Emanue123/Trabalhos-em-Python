@@ -26,7 +26,7 @@ Neste repositório, você encontrará as seguintes atividades desenvolvidas dura
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/repo-python-cefet.git
+    git clone https://github.com/Matheus-Emanue123/Trabalhos-em-Python
     ```
 2. **Navegue até o diretório desejado**:
     ```bash
