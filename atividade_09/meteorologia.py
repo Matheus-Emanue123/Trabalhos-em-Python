@@ -14,7 +14,6 @@ df['Data'] = pd.to_datetime(df['Data'], dayfirst=True)
 df['Ano'] = df['Data'].dt.year
 df['Mes'] = df['Data'].dt.month
 
-
 df_medias = df.groupby(['Ano', 'Mes']).mean()
 
 df_max = df.groupby(['Ano', 'Mes']).max()
